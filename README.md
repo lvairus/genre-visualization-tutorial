@@ -10,3 +10,11 @@ based on the [Spotify Aura](https://engineering.atspotify.com/2021/12/the-audio-
 - Webscrape the Goodreads websites to get descriptions for each book
 - Compute the genres of each book using the NLP model
 - Creating an "aura" visualization based on the most frequently read genres
+
+Libraries Used:
+- BeautifulSoup
+- requests
+- nltk
+- sklearn
+- matplotlib
+- PerlinNoise
